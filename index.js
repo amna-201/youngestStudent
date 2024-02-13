@@ -10,7 +10,7 @@ var minName= students.find(students=>students.age==minuma);
 
 function showYoungestStudent(students) {   
         console.log('the Name of the youngest student: ');
-        console.lo
+        console.log(minName.name);
  }
  showYoungestStudent();
 
